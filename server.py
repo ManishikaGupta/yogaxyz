@@ -142,11 +142,11 @@ yoga_data = pd.DataFrame({
         "https://pocketyoga.com/assets/images/full/Turtle.png",
         "https://pocketyoga.com/assets/images/full/CorpseDoubleLegRaise.png",
         # Anxiety
-        "https://pocketyoga.com/assets/images/full/PigeonPose_L.png",
+        "https://pocketyoga.com/assets/images/full/SupinePigeon_L.png",
         "https://pocketyoga.com/assets/images/full/HeadToKnee_R.png",
-        "https://pocketyoga.com/assets/images/full/EasyPose.png",
-        "https://pocketyoga.com/assets/images/full/BoundAnglePose_L.png",
-        "https://pocketyoga.com/assets/images/full/FishPose_L.png",
+        "https://pocketyoga.com/assets/images/full/Easy.png",
+        "https://pocketyoga.com/assets/images/full/BoundAngle.png",
+        "https://pocketyoga.com/assets/images/full/FishPreparation.png",
         # Asthma
         "https://pocketyoga.com/assets/images/full/BridgePose.png",
         "https://pocketyoga.com/assets/images/full/CowPose_L.png",
