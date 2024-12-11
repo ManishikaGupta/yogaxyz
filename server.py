@@ -151,22 +151,25 @@ yoga_data = pd.DataFrame({
         "https://pocketyoga.com/assets/images/full/Bridge.png",
         "https://pocketyoga.com/assets/images/full/KneePileBind_L.png",		
         "https://pocketyoga.com/assets/images/full/Bow.png",
-        "https://w7.pngwing.com/pngs/682/556/png-transparent-kapalbhati-pranayama-yoga-yoga-poses-yoga-asana-fitness-exercise-asana-world-yoga-day-flat-icon.png"				
+        "https://w7.pngwing.com/pngs/682/556/png-transparent-kapalbhati-pranayama-yoga-yoga-poses-yoga-asana-fitness-exercise-asana-world-yoga-day-flat-icon.png",
+        "https://healnaturally.com/wp-content/uploads/2021/11/AltNostrilThumbnail-1920w.webp"
         
         # Back Pain
-        "https://pocketyoga.com/assets/images/full/CamelPose_L.png",
-        "https://pocketyoga.com/assets/images/full/BridgePose.png",
-        "https://pocketyoga.com/assets/images/full/DolphinPose_L.png",
-        "https://pocketyoga.com/assets/images/full/HalfMoonPose_L.png",
-        "https://pocketyoga.com/assets/images/full/HeroPose_L.png",
+        "https://pocketyoga.com/assets/images/full/Camel.png",
+        "https://pocketyoga.com/assets/images/full/Bridge.png",
+        "https://pocketyoga.com/assets/images/full/Dolphin.png",
+        "https://pocketyoga.com/assets/images/full/HalfMoon_L.png",
+        "https://pocketyoga.com/assets/images/full/HeroTwist_R.png"
+        
         # Digestion
-        "https://pocketyoga.com/assets/images/full/HeroPose_L.png",
+        "https://pocketyoga.com/assets/images/full/HeroTwist_R.png",
         "https://pocketyoga.com/assets/images/full/BigToePose_L.png",
-        "https://pocketyoga.com/assets/images/full/HalfMoonPose_L.png",
+        "https://pocketyoga.com/assets/images/full/HalfMoon_L.png",
         "https://pocketyoga.com/assets/images/full/HeadToKnee_R.png",
-        "https://pocketyoga.com/assets/images/full/HeroPose_L.png",
+        "https://pocketyoga.com/assets/images/full/Hero.png"
+        
         # Eyes Related
-        "https://pocketyoga.com/assets/images/full/TreePose_L.png",
+        "https://pocketyoga.com/assets/images/full/TreePrayer_R.png",
         "https://pocketyoga.com/assets/images/full/Palming.png",
         "https://pocketyoga.com/assets/images/full/EyeRotation.png",
         "https://pocketyoga.com/assets/images/full/FocusSwitching.png",
