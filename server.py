@@ -152,112 +152,112 @@ yoga_data = pd.DataFrame({
         "https://pocketyoga.com/assets/images/full/KneePileBind_L.png",		
         "https://pocketyoga.com/assets/images/full/Bow.png",
         "https://w7.pngwing.com/pngs/682/556/png-transparent-kapalbhati-pranayama-yoga-yoga-poses-yoga-asana-fitness-exercise-asana-world-yoga-day-flat-icon.png",
-        "https://healnaturally.com/wp-content/uploads/2021/11/AltNostrilThumbnail-1920w.webp"
+        "https://healnaturally.com/wp-content/uploads/2021/11/AltNostrilThumbnail-1920w.webp",
         
         # Back Pain
         "https://pocketyoga.com/assets/images/full/Camel.png",
         "https://pocketyoga.com/assets/images/full/Bridge.png",
         "https://pocketyoga.com/assets/images/full/Dolphin.png",
         "https://pocketyoga.com/assets/images/full/HalfMoon_L.png",
-        "https://pocketyoga.com/assets/images/full/HeroTwist_R.png"
+        "https://pocketyoga.com/assets/images/full/HeroTwist_R.png",
         
         # Digestion
         "https://pocketyoga.com/assets/images/full/HeroTwist_R.png",
         "https://pocketyoga.com/assets/images/full/BigToePose_L.png",
         "https://pocketyoga.com/assets/images/full/HalfMoon_L.png",
         "https://pocketyoga.com/assets/images/full/HeadToKnee_R.png",
-        "https://pocketyoga.com/assets/images/full/Hero.png"
+        "https://pocketyoga.com/assets/images/full/Hero.png",
         
         # Eyes Related
         "https://pocketyoga.com/assets/images/full/TreePrayer_R.png",
         "https://pocketyoga.com/assets/images/full/Palming.png",
         "https://pocketyoga.com/assets/images/full/EyeRotation.png",
         "https://pocketyoga.com/assets/images/full/FocusSwitching.png",
-        "https://pocketyoga.com/assets/images/full/BhramariBreathing.png"
+        "https://pocketyoga.com/assets/images/full/BhramariBreathing.png",
         # Blood Pressure (HyperTension)
         "https://pocketyoga.com/assets/images/full/DolphinPose_L.png",
         "https://pocketyoga.com/assets/images/full/BoundAnglePose_L.png",
         "https://pocketyoga.com/assets/images/full/SeatedForwardBend.png",
         "https://pocketyoga.com/assets/images/full/CorpsePose_L.png",
-        "https://pocketyoga.com/assets/images/full/ChildPose_L.png"
+        "https://pocketyoga.com/assets/images/full/ChildPose_L.png",
         # Cardiovascular
         "https://pocketyoga.com/assets/images/full/BigToePose_L.png",
         "https://pocketyoga.com/assets/images/full/ShoulderStand_L.png",
         "https://pocketyoga.com/assets/images/full/SeatedForwardBend.png",
         "https://pocketyoga.com/assets/images/full/CowPose_L.png",
-        "https://pocketyoga.com/assets/images/full/HalfSpinalTwist.png"
+        "https://pocketyoga.com/assets/images/full/HalfSpinalTwist.png",
         # Diabetes
         "https://pocketyoga.com/assets/images/full/BowPose.png",
         "https://pocketyoga.com/assets/images/full/ChildPose_L.png",
         "https://pocketyoga.com/assets/images/full/FrogPose.png",
         "https://pocketyoga.com/assets/images/full/Tadasana.png",
-        "https://pocketyoga.com/assets/images/full/WheelPose.png"
+        "https://pocketyoga.com/assets/images/full/WheelPose.png",
         # Headache (Migraine)
         "https://pocketyoga.com/assets/images/full/LegsUpTheWall.png",
         "https://pocketyoga.com/assets/images/full/ChildPose_L.png",
         "https://pocketyoga.com/assets/images/full/CorpsePose_L.png",
         "https://pocketyoga.com/assets/images/full/BridgePose.png",
-        "https://pocketyoga.com/assets/images/full/StandingForwardBend.png"
+        "https://pocketyoga.com/assets/images/full/StandingForwardBend.png",
         # Stress
         "https://pocketyoga.com/assets/images/full/CatPose.png",
         "https://pocketyoga.com/assets/images/full/LegsUpTheWall.png",
         "https://pocketyoga.com/assets/images/full/CorpsePose_L.png",
         "https://pocketyoga.com/assets/images/full/ChildPose_L.png",
-        "https://pocketyoga.com/assets/images/full/PigeonPose_L.png"
+        "https://pocketyoga.com/assets/images/full/PigeonPose_L.png",
         # Muscles (Strain, Pull, Soreness)
         "https://pocketyoga.com/assets/images/full/HalfLocustPose.png",
         "https://pocketyoga.com/assets/images/full/DolphinPose_L.png",
         "https://pocketyoga.com/assets/images/full/BirdDogBalance.png",
         "https://pocketyoga.com/assets/images/full/ExtendedChildPose.png",
-        "https://pocketyoga.com/assets/images/full/PigeonPose_L.png"
+        "https://pocketyoga.com/assets/images/full/PigeonPose_L.png",
         # Overweight, Obesity
         "https://pocketyoga.com/assets/images/full/WarriorPose_L.png",
         "https://pocketyoga.com/assets/images/full/TrianglePose.png",
         "https://pocketyoga.com/assets/images/full/TwistedChairPose.png",
         "https://pocketyoga.com/assets/images/full/BowPose.png",
-        "https://pocketyoga.com/assets/images/full/PlankPose.png"
+        "https://pocketyoga.com/assets/images/full/PlankPose.png",
         # Immunity
         "https://pocketyoga.com/assets/images/full/LocustPose.png",
         "https://pocketyoga.com/assets/images/full/LowLungePose.png",
         "https://pocketyoga.com/assets/images/full/CrowPose.png",
         "https://pocketyoga.com/assets/images/full/Tadasana.png",
-        "https://pocketyoga.com/assets/images/full/FourLimbedStaffPose.png"
+        "https://pocketyoga.com/assets/images/full/FourLimbedStaffPose.png",
         # Cough, Cold
         "https://pocketyoga.com/assets/images/full/ShoulderStand.png",
         "https://pocketyoga.com/assets/images/full/AdvancedTortoisePose.png",
         "https://pocketyoga.com/assets/images/full/HeadStand.png",
         "https://pocketyoga.com/assets/images/full/LegsUpTheWall.png",
-        "https://pocketyoga.com/assets/images/full/TrianglePose.png"
+        "https://pocketyoga.com/assets/images/full/TrianglePose.png",
         # Cholesterol
         "https://pocketyoga.com/assets/images/full/HalfSpinalTwist.png",
         "https://pocketyoga.com/assets/images/full/StandingForwardBend.png",
         "https://pocketyoga.com/assets/images/full/WheelPose.png",
         "https://pocketyoga.com/assets/images/full/ShoulderStand.png",
-        "https://pocketyoga.com/assets/images/full/SeatedForwardBend.png"
+        "https://pocketyoga.com/assets/images/full/SeatedForwardBend.png",
         # Knee Pain
         "https://pocketyoga.com/assets/images/full/StandingForwardBend.png",
         "https://pocketyoga.com/assets/images/full/WideAngledSeatedForwardBend.png",
         "https://pocketyoga.com/assets/images/full/LowLunge.png",
         "https://pocketyoga.com/assets/images/full/WarriorPose_L.png",
-        "https://pocketyoga.com/assets/images/full/HighLunge.png"
+        "https://pocketyoga.com/assets/images/full/HighLunge.png",
         # Arthritis or Pain
         "https://pocketyoga.com/assets/images/full/WarriorPose_L.png",
         "https://pocketyoga.com/assets/images/full/TreePose_L.png",
         "https://pocketyoga.com/assets/images/full/TrianglePose.png",
         "https://pocketyoga.com/assets/images/full/BridgePose.png",
-        "https://pocketyoga.com/assets/images/full/SphinxPose.png"
+        "https://pocketyoga.com/assets/images/full/SphinxPose.png",
         # Underweight, Muscle Gain
         "https://pocketyoga.com/assets/images/full/ForearmPlank.png",
         "https://pocketyoga.com/assets/images/full/DolphinPose_L.png",
         "https://pocketyoga.com/assets/images/full/TreePose_L.png",
         "https://pocketyoga.com/assets/images/full/SquatPose.png",
-        "https://pocketyoga.com/assets/images/full/HighLunge.png"
+        "https://pocketyoga.com/assets/images/full/HighLunge.png",
         # Hair Problems
         "https://pocketyoga.com/assets/images/full/WindRemovingPose.png",
         "https://pocketyoga.com/assets/images/full/ThunderboltPose.png",
         "https://pocketyoga.com/assets/images/full/DownwardDogPose.png",
         "https://pocketyoga.com/assets/images/full/StandingForwardBend.png",
-        "https://pocketyoga.com/assets/images/full/ShoulderStand.png"
+        "https://pocketyoga.com/assets/images/full/ShoulderStand.png",
     ]
 })
 
